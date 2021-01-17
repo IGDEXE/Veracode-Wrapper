@@ -2,7 +2,6 @@
 $veracodeID = ""
 $veracodeAPIkey = ""
 $veracodeAppName = ""
-$appID = $Null
 $caminhoArquivo = ""
 
 # Recebe o App ID com base no nome da aplicacao dentro do Veracode
